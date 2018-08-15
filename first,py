@@ -1,0 +1,7 @@
+a=10
+b=30
+c=40
+z=a+b+c
+ptint"Total sum is" ,z
+
+
